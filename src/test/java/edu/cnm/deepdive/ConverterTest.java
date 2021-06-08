@@ -20,4 +20,9 @@ class ConverterTest {
       }
   }
 
+  @Test
+  void convertF2C() {
+    // TODO Implement test for Fahrenheit-tp-Celsius conversion formula.
+
+  }
 }
